@@ -6,11 +6,10 @@
   font-family: 'Outfit',sans-serif;
   scroll-behavior: smooth;
   /* background-color: black; */
-  color: #fff;
+
 }
 body{
   min-height: 100vh;
-   background-color:black;
 }
 a{
   text-decoration: none;
